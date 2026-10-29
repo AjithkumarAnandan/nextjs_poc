@@ -9,12 +9,12 @@ export default function Header() {
       {/* Logo and Application Name */}
       <Link href="/dashboard" className="flex items-center gap-3">
         <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-700 text-lg font-bold text-white">
-          BR
+          AK
         </div>
 
         <div>
           <h1 className="text-lg font-bold tracking-tight text-gray-900">
-            Business Reports
+            AK Business Reports
           </h1>
           <p className="text-xs text-gray-500">
             Reporting & Analytics
